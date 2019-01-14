@@ -3,7 +3,10 @@
 <head><title></title></head>
 <style>
 body{
-     background-image:url (
+     background-image:url ('Demo/VisionaryHustlers/0BA83B66-6416-4A3A-B001-EBE25D2DAEB2.png');
+     background-repeat:repeat;
+     background-size:cover;
+     background-attachment:fixed;
 } 
 
 
